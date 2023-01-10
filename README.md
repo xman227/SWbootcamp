@@ -6,7 +6,7 @@
 | Name  |E.T.|Github  |
 | :------------ |:---------------:| :-----|
 | 하성민      |Team Leader |https://github.com/xman227 |
-|       ||  |
+| 최 건       |Team Member |https://github.com/na0th |
 |       ||  |
 |       ||  |
 |       ||  |
