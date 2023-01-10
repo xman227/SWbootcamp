@@ -7,7 +7,7 @@
 | :------------ |:---------------:| :-----|
 | 하성민      |Team Leader |https://github.com/xman227 |
 | 최 건       |Team Member |https://github.com/na0th |
-|       ||  |
+| 백소미      |Team Member |https://github.com/baeksom  |
 |       ||  |
 |       ||  |
 
